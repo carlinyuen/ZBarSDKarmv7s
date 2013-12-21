@@ -3,7 +3,7 @@ ZBarSDKarmv7s
 
 Just a copy of the ZBarSDK that has been recompiled for the armv7s because I'm lazy.
 
-## Integration (taken from ZBarSDK website)
+## Integration (taken from the [ZBarSDK website](http://zbar.sourceforge.net/iphone/sdkdoc/install.html))
 The recommended installation method is to simply copy the SDK into your Xcode project:
 
  1. Open ZBarSDK-1.2.dmg in the Finder.
