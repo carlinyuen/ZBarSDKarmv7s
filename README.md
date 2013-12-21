@@ -24,7 +24,7 @@ The recommended installation method is to simply copy the SDK into your Xcode pr
 
  4. Import the SDK header from your prefix header to make the barcode reader APIs available:
 
-	&#35import "ZBarSDK.h"
+    #import "ZBarSDK.h"
 
 ### Note
 With the advent of iOS 7, you can use native libraries for barcode scanning now: http://www.infragistics.com/community/blogs/torrey-betts/archive/2013/10/10/scanning-barcodes-with-ios-7-objective-c.aspx
