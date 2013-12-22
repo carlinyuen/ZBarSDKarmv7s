@@ -3,6 +3,8 @@ ZBarSDKarmv7s
 
 Just a copy of the ZBarSDK that has been recompiled for the armv7s because I'm lazy.
 
+Note: I've gone ahead and built a simple library that incorporates the ZBarSDK with iOS 7 barcode scanning as well, feel free to use and contribute to the repo: [SimpleBarCodeScanner](https://github.com/carlinyuen/SimpleBarCodeScanner).
+
 ## Integration (taken from the [ZBarSDK website](http://zbar.sourceforge.net/iphone/sdkdoc/install.html))
 The recommended installation method is to simply copy the SDK into your Xcode project:
 
